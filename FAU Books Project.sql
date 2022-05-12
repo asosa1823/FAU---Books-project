@@ -1,6 +1,6 @@
 
 -- This project is the creation of a database that stores customer information of books purchased.
--- It also inserts information from some customers
+-- It also inserts some of the customer and book information.
 
 -- The Customers Table which stores (LastName, FirstName, Address [City, State, Zip,],  Refered, and Region
 CREATE TABLE Customers
